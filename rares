@@ -1,1 +1,854 @@
-
+============================================================
+Name         : Cane (Knife) [XMAS2018]
+Value        : 600
+Range        : N/A
+Rarity       : 5
+Stability    : Stable
+Origin       : Xmas 2018 (Tier 30) Last Change in
+============================================================
+Name         : Dungeon
+Value        : 360
+Range        : N/A
+Rarity       : 5
+Stability    : Stable
+Origin       : Hallows 2019 (Unboxed) Last Change in
+============================================================
+Name         : Darkknife
+Value        : 80
+Range        : N/A
+Rarity       : 4
+Stability    : Stable
+Origin       : Hallows 2023 (Tier 25) Last Change in
+============================================================
+Name         : Makeshift (Knife)
+Value        : 50
+Range        : N/A
+Rarity       : 4
+Stability    : Stable
+Origin       : Hallows 2022 (S, Tier 17) Last Change in
+============================================================
+Name         : Silent Night (Knife)
+Value        : 50
+Range        : N/A
+Rarity       : 4
+Stability    : Stable
+Origin       : Xmas 2020 (Tier 15) Last Change in
+============================================================
+Name         : Zombified
+Value        : 45
+Range        : N/A
+Rarity       : 4
+Stability    : Stable
+Origin       : Hallows 2022 (Z, Tier 17) Last Change in
+============================================================
+Name         : Starry (Gun)
+Value        : 27
+Range        : N/A
+Rarity       : 4
+Stability    : Stable
+Origin       : Xmas 2021 (Tier 17) Last Change in
+============================================================
+Name         : Swirl
+Value        : 27
+Range        : N/A
+Rarity       : 4
+Stability    : Stable
+Origin       : Xmas 2021 (Tier 15) Last Change in
+============================================================
+Name         : Watcher (Gun)
+Value        : 20
+Range        : N/A
+Rarity       : 4
+Stability    : Stable
+Origin       : Hallows 2021 (Tier 24) Last Change in
+============================================================
+Name         : Magma (Gun)
+Value        : 12
+Range        : N/A
+Rarity       : 4
+Stability    : Stable
+Origin       : Hallows 2021 (Tier 20) Last Change in
+============================================================
+Name         : Aurora (Knife)
+Value        : 12
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2019 (Tier 20) Last Change in
+============================================================
+Name         : Silent Night (Gun)
+Value        : 12
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2020 (Unboxed) Last Change in
+============================================================
+Name         : Floral (Knife)
+Value        : 10
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Summer 2023 (Tier 10) Last Change in
+============================================================
+Name         : Ghostfire
+Value        : 8
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2022 (Tier 18) Last Change in
+============================================================
+Name         : Snowflakes
+Value        : 8
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2020 (Unboxed) Last Change in
+============================================================
+Name         : Toxic (Knife)
+Value        : 7
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2018 (Tier 30) Last Change in
+============================================================
+Name         : Ghastly (Gun)
+Value        : 5
+Range        : N/A
+Rarity       : 4
+Stability    : Stable
+Origin       : Hallows 2023 (Tier 21) Last Change in
+============================================================
+Name         : Icicles (Gun)
+Value        : 5
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2018 (Tier 22) Last Change in
+============================================================
+Name         : Sun
+Value        : 5
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Summer 2023 (Tier 9) Last Change in
+============================================================
+Name         : Vampire (Gun)
+Value        : 5
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2018 (Tier 22) Last Change in
+============================================================
+Name         : Candy Swirl (Gun)
+Value        : 3
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2019 (Tier 24) Last Change in
+============================================================
+Name         : Jack
+Value        : 3
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2015 (Bingo) Last Change in
+============================================================
+Name         : Snakebite (Knife)
+Value        : 3
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2019 (Tier 23) Last Change in
+============================================================
+Name         : Wraith (Knife)
+Value        : 3
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2022 (Tier 13) Last Change in
+============================================================
+Name         : Bats
+Value        : 3
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2016 (Unboxed) Last Change in
+============================================================
+Name         : Magma
+Value        : 3
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2017 (Unboxed) Last Change in
+============================================================
+Name         : Green Marble
+Value        : 2
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2017 (Unboxed) Last Change in
+============================================================
+Name         : Orange Marble
+Value        : 2
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2016 (Unboxed) Last Change in
+============================================================
+Name         : Toxic (Gun)
+Value        : 2
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2018 (Unboxed) Last Change in
+============================================================
+Name         : Darkgun
+Value        : 1
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2023 (Unboxed) Last Change in
+============================================================
+Name         : Gingerbread
+Value        : 1
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2017 (Unboxed) Last Change in
+============================================================
+Name         : Monster
+Value        : 1
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2019 (Tier 15) Last Change in
+============================================================
+Name         : Aurora (Gun)
+Value        : 1
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2019 (Unboxed) Last Change in
+============================================================
+Name         : Candy Swirl (Knife)
+Value        : 1
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2019 (Unboxed) Last Change in
+============================================================
+Name         : Snakebite (Gun)
+Value        : 1
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2019 (Unboxed) Last Change in
+============================================================
+Name         : Vampire (Knife)
+Value        : 1
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2018 (Unboxed) Last Change in
+============================================================
+Name         : Gingerbread (Gun)
+Value        : 0.6
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2022 (Tier 15)
+============================================================
+Name         : Starry (Knife)
+Value        : 0.6
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2021 (Unboxed)
+============================================================
+Name         : Cane (Gun)
+Value        : 0.6
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2015 (Unboxed)
+============================================================
+Name         : Cane (Knife)
+Value        : 0.6
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2015 (Unboxed)
+============================================================
+Name         : Ginger (Gun)
+Value        : 0.6
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2015 (Unboxed)
+============================================================
+Name         : Ginger (Knife)
+Value        : 0.6
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2015 (Unboxed)
+============================================================
+Name         : Mummy
+Value        : 0.6
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2015 (Bingo)
+============================================================
+Name         : Nuke
+Value        : 0.45
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Easter 2023 Bingo
+============================================================
+Name         : Cane (Gun)
+Value        : 0.45
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2018 (Unboxed)
+============================================================
+Name         : Magma (Knife)
+Value        : 0.45
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2021 (Unboxed)
+============================================================
+Name         : Molten (Gun)
+Value        : 0.45
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Crafting
+============================================================
+Name         : Molten (Knife)
+Value        : 0.45
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Crafting
+============================================================
+Name         : Watcher (Knife)
+Value        : 0.45
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2021 (Unboxed)
+============================================================
+Name         : Snowy
+Value        : 0.45
+Range        : N/A
+Rarity       : 4
+Stability    : Stable
+Origin       : Xmas 2017 (Unboxed)
+============================================================
+Name         : Icicles (Knife)
+Value        : 0.45
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2018 (Unboxed)
+============================================================
+Name         : Ghastly (Knife)
+Value        : 0.3
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Hallows 2023 (Unboxed)
+============================================================
+Name         : Ice Camo
+Value        : 0.3
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2021 (Unboxed)
+============================================================
+Name         : Logcutter
+Value        : 0.3
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2024 (Tier 15)
+============================================================
+Name         : Butterflies
+Value        : 0.15
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Easter 2025 (8 Rare Eggs)
+============================================================
+Name         : Heart
+Value        : 0.15
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Valentine's 2023 (Tier 4)
+============================================================
+Name         : Neon
+Value        : 0.15
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2023 (Tier 17)
+============================================================
+Name         : Candleflame (Gun)
+Value        : 0.15
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2024 (Tier 17)
+============================================================
+Name         : Damp
+Value        : 0.15
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Crafting
+============================================================
+Name         : Frostflame (Knife)
+Value        : 0.15
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2024 (Tier 17)
+============================================================
+Name         : Gingerbread (Knife)
+Value        : 0.15
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2022 (Unboxed)
+============================================================
+Name         : Nether
+Value        : 0.15
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Crafting
+============================================================
+Name         : Painted (Knife)
+Value        : 0.15
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Easter 2023 (Tier 4)
+============================================================
+Name         : Spitfire
+Value        : 0.15
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Crafting
+============================================================
+Name         : Storm
+Value        : 0.15
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2024 (Tier 15)
+============================================================
+Name         : Wraith (Gun)
+Value        : 0.15
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2022 (Unboxed)
+============================================================
+Name         : Tree (2023)
+Value        : 0.09
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2023 (Tier 15)
+============================================================
+Name         : Tree (Knife)
+Value        : 0.09
+Range        : N/A
+Rarity       : 3
+Stability    : Stable
+Origin       : Xmas 2022 (Tier 17)
+============================================================
+Name         : Bio
+Value        : 0.09
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Easter 2023 Bingo
+============================================================
+Name         : Bones (Knife)
+Value        : 0.09
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2020 (Unboxed)
+============================================================
+Name         : Curse
+Value        : 0.09
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2022 (Unboxed)
+============================================================
+Name         : Frostflame (Gun)
+Value        : 0.09
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2024 (Unboxed)
+============================================================
+Name         : Ghosts (Gun)
+Value        : 0.09
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2020 (Tier 24)
+============================================================
+Name         : Gingercookie (Knife)
+Value        : 0.09
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2025 (Tier 26)
+============================================================
+Name         : Hologram (Gun)
+Value        : 0.09
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2025 (Tier 19)
+============================================================
+Name         : Pop Art (Knife)
+Value        : 0.09
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Summer 2025 (Tier 19)
+============================================================
+Name         : Spearmint (Gun)
+Value        : 0.09
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2025 (Tier 20)
+============================================================
+Name         : Xeno (Knife)
+Value        : 0.09
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2025 (Tier 21)
+============================================================
+Name         : Sunny
+Value        : 0.09
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Easter 2025 (Tier 4)
+============================================================
+Name         : Tropical
+Value        : 0.09
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Summer 2025 (Tier 21)
+============================================================
+Name         : Hologram (Knife)
+Value        : 0.06
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2025 (Unboxed)
+============================================================
+Name         : Portal (Knife)
+Value        : 0.06
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2020 (Unboxed)
+============================================================
+Name         : Tree (Gun)
+Value        : 0.06
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2022 (Unboxed)
+============================================================
+Name         : Xeno (Gun)
+Value        : 0.06
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2025 (Unboxed)
+============================================================
+Name         : Kraken
+Value        : 0.06
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2024 (Unboxed)
+============================================================
+Name         : Ritual
+Value        : 0.06
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Hallows 2024 (Unboxed)
+============================================================
+Name         : Snowflake
+Value        : 0.06
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2023 (Unboxed)
+============================================================
+Name         : Snowglobe
+Value        : 0.06
+Range        : N/A
+Rarity       : 2
+Stability    : Stable
+Origin       : Xmas 2023 (Unboxed)
+============================================================
+Name         : Floral (Gun)
+Value        : 0.06
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Summer 2024 (Unboxed)
+============================================================
+Name         : Gingercookie (Gun)
+Value        : 0.06
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Xmas 2025 (Unboxed)
+============================================================
+Name         : Heartbreak
+Value        : 0.06
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Valentine 2026 (Unboxed)
+============================================================
+Name         : Neon
+Value        : 0.06
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Summer 2025 (Unboxed)
+============================================================
+Name         : Pop Art (Gun)
+Value        : 0.06
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Summer 2025 (Unboxed)
+============================================================
+Name         : Robot
+Value        : 0.06
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Easter 2024 (8 Rare Eggs)
+============================================================
+Name         : Sharky
+Value        : 0.06
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Summer 2024 (Tier 7)
+============================================================
+Name         : Sleigh
+Value        : 0.06
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Xmas 2024 (Unboxed)
+============================================================
+Name         : Spearmint (Knife)
+Value        : 0.06
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Xmas 2025 (Unboxed)
+============================================================
+Name         : Spring
+Value        : 0.06
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Easter 2024 (Tier 5)
+============================================================
+Name         : Waves
+Value        : 0.06
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Summer 2024 (Unboxed)
+============================================================
+Name         : Yummy
+Value        : 0.06
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Valentine 2026 (Unboxed)
+============================================================
+Name         : Black
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Rainbow Box
+============================================================
+Name         : Abstract
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Knife Box 5
+============================================================
+Name         : Ace
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Gun Box 3
+============================================================
+Name         : Bacon
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Gun Box 3
+============================================================
+Name         : Galactic
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Gun Box 1
+============================================================
+Name         : Galaxy
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Knife Box 1
+============================================================
+Name         : Hacker
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Gun Box 2
+============================================================
+Name         : Imbued
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Gun Box 1
+============================================================
+Name         : iRevolver
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Gun Box 2
+============================================================
+Name         : Korblox
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Knife Box 4
+============================================================
+Name         : Krypto
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Knife Box 2
+============================================================
+Name         : Musical
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Knife Box 5
+============================================================
+Name         : Nightfire
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Mystery Box #2
+============================================================
+Name         : Nova
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Knife Box 3
+============================================================
+Name         : Purple
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Rainbow Box
+============================================================
+Name         : Rainbow (Gun)
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Mystery Box #1
+============================================================
+Name         : Rainbow (Knife)
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Knife Box 1
+============================================================
+Name         : Space
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Mystery Box #1
+============================================================
+Name         : Spectrum
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Knife Box 2
+============================================================
+Name         : Squire
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Knife Box 4
+============================================================
+Name         : Vortex
+Value        : 0.025
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Knife Box 3
+============================================================
+Name         : Deep Sea
+Value        : 0.02
+Range        : N/A
+Rarity       : 1
+Stability    : Stable
+Origin       : Mystery Box #2
